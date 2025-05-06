@@ -30,3 +30,5 @@ It would be useful to implement multilingual support for international students.
 Analytics of student questions will allow teachers to identify problematic topics and adapt the course.
 
 https://github.com/alexpolina/RAG_app/tree/main
+
+https://pdfragtool.streamlit.app/
