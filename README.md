@@ -28,3 +28,5 @@ The system can be equipped with a voice assistant so that students can interact 
 Integration with various learning management systems (LMS), such as Moodle, is possible to simplify access to materials.
 It would be useful to implement multilingual support for international students.
 Analytics of student questions will allow teachers to identify problematic topics and adapt the course.
+
+https://github.com/alexpolina/RAG_app/tree/main
